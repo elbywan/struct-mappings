@@ -118,10 +118,6 @@ pp array_from_data.to_unsafe # => C::DataArray(@data=Pointer(C::Data)@0x10e1cfda
 
 The exhaustive documentation is hosted [here](https://elbywan.github.io/struct-mappings).
 
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/struct-mappings/fork>)
