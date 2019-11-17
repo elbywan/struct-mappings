@@ -1,0 +1,14 @@
+name: struct-mappings
+version: 0.1.0
+description: Generate Crystal classes mapping C structures. 🗺️
+
+authors:
+  - elbywan <elbywan@hotmail.com>
+
+crystal: 0.31.1
+
+license: MIT
+
+repository: https://github.com/elbywan/struct-mappings
+
+license: MIT
